@@ -1,4 +1,4 @@
-# Information Retrieval Project 2022/23
+# Information Retrieval Project
 
 Project done for the information retrieval course of the master's degree in Data Science @ UniMI
 
