@@ -10,3 +10,4 @@ Project done for the information retrieval course of the master's degree in Data
 
 The dataset is found at: https://github.com/FootballAnalysis/footballanalysis/tree/main/Dataset/Soccer%20Event%20Dataset%20(Image)
 The main reference for this project is: Karimi, A., Toosi, R., & Akhaee, M. A. (2021). Soccer event detection using deep learning. arXiv preprint arXiv:2102.04331.
+The code is found also in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][https://colab.research.google.com/github/magourram/information_retrieval/blob/main/info_ret_project.ipynb]
